@@ -1,9 +1,14 @@
 {
     "timeline": {
-        "headline": "Віхи історії",
+        "headline": "Кетроси на Марківці",
         "type": "default",
         "text": "Віхи історії",
-        "startDate": "1601,0,0",
+        "startDate": "1650,0,0",
+        "asset": {
+            "media": "photos/main.jpg",
+            "credit": "",
+            "caption": ""
+        },
         "date": [
             {
                 "startDate": "1600,0,0",
